@@ -1,0 +1,14 @@
+.animals-list {
+  margin: 2%;
+}
+
+.mat-card-animal {
+  border: 1px solid #CFD8DC;
+  border-radius: 4px;
+  padding: 5px;
+  margin: 5px;
+}
+
+table {
+  width: 100%;
+}
